@@ -1,5 +1,4 @@
-```md
-<h1>Hi, I'm Jude! <br/><a href="https://github.com/Jude-Gigy-IT">Cybersecurity Student</a>, <a href="www.linkedin.com/in/jude-gigy-72231727b">Security+ Certified</a></h1>
+<h1>Hi, I'm Jude! <br/><a href="https://github.com/Jude-Gigy-IT">Information Systems Student</a>, <a href="www.linkedin.com/in/jude-gigy-72231727b">Security+ Certified</a></h1>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
