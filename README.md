@@ -23,6 +23,6 @@
 
 <br />
 
-[linkedin]: www.linkedin.com/in/jude-gigy-72231727b
+[linkedin]: https://www.linkedin.com/in/jude-gigy-72231727b
 
 
