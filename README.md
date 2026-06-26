@@ -1,16 +1,29 @@
-## Hi there 👋
+```md
+<h1>Hi, I'm Jude! <br/><a href="https://github.com/Jude-Gigy-IT">Cybersecurity Student</a>, <a href="www.linkedin.com/in/jude-gigy-72231727b">Security+ Certified</a></h1>
 
-<!--
-**Jude-Gigy-IT/Jude-Gigy-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🛡️ Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Wazuh SIEM & File Integrity Monitoring</b>
+  - [File Integrity Monitoring with Wazuh](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📜 Certifications</h2>
+
+- CompTIA Security+
+- Certified in Cybersecurity ISC2
+
+<h2>🌱 Currently Learning</h2>
+
+- Wazuh SIEM
+- PowerShell
+- Python
+- Linux
+
+<h2> 🤝 Connect with me:</h2>
+
+[<img align="left" alt="Jude Gigy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: www.linkedin.com/in/jude-gigy-72231727b
+
+
