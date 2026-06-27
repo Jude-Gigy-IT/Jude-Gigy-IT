@@ -3,7 +3,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Wazuh SIEM & File Integrity Monitoring</b>
-  - [File Integrity Monitoring with Wazuh](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
+  - [File Integrity Monitoring with Wazuh](https://github.com/Jude-Gigy-IT/Wazuh-SOC-Lab/blob/main/01-file-integrity-monitoring/README.md)
 
 <h2>📜 Certifications</h2>
 
