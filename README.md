@@ -4,7 +4,8 @@
 
 - <b>Wazuh SIEM & File Integrity Monitoring</b>
   - [File Integrity Monitoring with Wazuh](https://github.com/Jude-Gigy-IT/Wazuh-SOC-Lab/tree/main/01-file-integrity-monitoring)
-
+- <b>AWS Cybersecurity Lab</b>
+  - [AWS Identity and Access Management](https://github.com/Jude-Gigy-IT/AWS-projects/blob/main/README.md)
 <h2>📜 Certifications</h2>
 
 - CompTIA Security+
